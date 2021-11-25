@@ -1,0 +1,12 @@
+footer
+{
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+footer p{
+    padding:20px 0;
+    font-size: calc(10px + 1vmin);
+    display: inline-block;
+}

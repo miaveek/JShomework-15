@@ -1,0 +1,12 @@
+h3{
+    font-size: calc(16px + 2vmin);
+    color: rgba(55, 55, 55, 255);
+    text-align: center;
+    margin-top: 50px;
+}
+p{
+    font-size: calc(9px + 2vmin);
+    color: rgba(55, 55, 55, 255);
+    text-align: center;
+    padding:25px 100px;
+}

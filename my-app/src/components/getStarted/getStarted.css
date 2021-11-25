@@ -1,0 +1,20 @@
+button{
+    background-color: #16a085;
+    color: #fff;
+    border-radius: 4px;
+    padding: 15px 55px;
+    text-transform: uppercase;
+    border: none;
+    margin-top: 40px;
+    margin-bottom: 110px;
+    border: 2px solid transparent;
+    
+}
+button:hover{
+    border: 2px solid #226154;
+}
+.btnContainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

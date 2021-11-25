@@ -1,0 +1,16 @@
+body{
+  font-family: 'Roboto', sans-serif;
+}
+img{
+  width: inherit;
+  height: auto;
+}
+.App{
+  max-width: 1280px;
+  margin: 0 auto;
+  background-color: #f5f7f7;
+  display: flex;
+  flex-direction: column;
+  font-size: calc(10px + 2vmin);
+  color: #373737;
+}
